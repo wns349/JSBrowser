@@ -2,4 +2,10 @@
     <string name="app_name">JSBrowser</string>
 
     <string name="splash_title">JSBrowser</string>
+    <string name="go">Go</string>
+    <string name="enter_url">Enter URL</string>
+
+    <string name="fav1">Google</string>
+    <string name="fav2">Yahoo</string>
+    <string name="fav3">ESPN</string>
 </resources>
